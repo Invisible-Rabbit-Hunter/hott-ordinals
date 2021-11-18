@@ -1,0 +1,4 @@
+name: sandbox
+depend: cubical
+include: src
+flags: --cubical --no-import-sorts
